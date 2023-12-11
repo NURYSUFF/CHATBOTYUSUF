@@ -1,0 +1,17 @@
+.search-box {
+    background-color: white;
+    height: 10px;
+    padding: 7px 15px;
+    border-radius: 50px;
+}
+
+.search-box input {
+    border: none;
+    outline: none;
+    background-color: blue;
+    width: 30px;
+}
+
+.search-box a {
+    color: blue;
+}
